@@ -1,3 +1,8 @@
+/*
+  贪心题， 每次比较左端跟右端的字符， 取小的加入输出队列
+  注意输出的格式
+*/
+
 #include<cstdio>
 #include<cstring>
 #include<string>
